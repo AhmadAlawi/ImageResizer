@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "wJLzYOwoADvHbkSmX7plBSSZ0yJmfcdvvNQWrrbDwDfjI3QG9wQjIPTBe9TQWHZY66Om3NVU24gqVYViE/horg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RD\\source\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RD\\.nuget\\packages\\aspose.imaging\\23.2.0\\aspose.imaging.23.2.0.nupkg.sha512",
+    "C:\\Users\\RD\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\RD\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\RD\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\RD\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
